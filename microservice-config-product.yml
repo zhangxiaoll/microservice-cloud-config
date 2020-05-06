@@ -6,7 +6,7 @@ spring:
 server:
   port: 8001
 emp:
-  name: yaohui
+  name: ayaohui
 mybatis:
   config-location: classpath:mybatis/mybatis.cfg.xml
   type-aliases-package: com.bdqn.entity
